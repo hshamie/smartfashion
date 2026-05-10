@@ -1,0 +1,16 @@
+*.user
+*.suo
+.DS_Store
+
+SmartFashion.Api/bin/
+SmartFashion.Api/obj/
+SmartFashion.Api/appsettings.Development.json
+
+mobileapp/node_modules/
+mobileapp/.expo/
+mobileapp/dist/
+mobileapp/npm-debug.log*
+
+mobileapp/ios/Pods/
+mobileapp/android/.gradle/
+mobileapp/android/app/build/
